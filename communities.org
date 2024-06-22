@@ -1,0 +1,9 @@
+:PROPERTIES:
+:CUSTOM_ID: KDCZ-100-000
+:END:
+#+title: Kodecsz Communities
+
+This is a document indexing all Kodecsz community documents, separated by platform.
+
+We have community in these platforms:
+- [[file:communities/discord.org][Discord]]

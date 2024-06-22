@@ -1,0 +1,12 @@
+:PROPERTIES:
+:CUSTOM_ID: KDCZ-100-001
+:END:
+#+title: Discord Community
+
+This is the document about Kodecsz Discord community.
+
+* What is Discord?
+Discord is an instant messaging and VoIP social platform which allows communication through voice calls, video calls, text messaging, and media and files. Communication can be private or take place in virtual communities called "servers"[fn:1].
+
+* Footnotes
+[fn:1] https://en.wikipedia.org/wiki/Discord

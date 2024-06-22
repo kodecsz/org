@@ -1,0 +1,5 @@
+#+title: Kodecsz Org
+
+This is a document with all Kodecsz procedures and specifications.
+
+For all documents see: [[file:DOCUMENTS.org][DOCUMENTS]].
