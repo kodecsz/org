@@ -10,8 +10,9 @@ This is a file containing all documents.
 | KDCZ-300-XXX | Specification-related Documents |
 
 * All Documents
-| ID           | File                |
-|--------------+---------------------|
-| KDCZ-100-000 | [[file:communities.org][Kodecsz Communities]] |
-| KDCZ-100-001 | [[file:communities/discord.org][Discord Community]]   |
-|              |                     |
+| ID           | File                         |
+|--------------+------------------------------|
+| KDCZ-100-000 | [[file:communities.org][Kodecsz Communities]]          |
+| KDCZ-100-001 | [[file:communities/discord.org][Discord Community]]            |
+| KDCZ-200-000 | [[file:procedures.org][Kodecsz Procedures]]           |
+| KDCZ-200-001 | [[file:procedures/discord_server_announcements.org][Discord Server Announcements]] |

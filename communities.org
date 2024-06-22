@@ -6,4 +6,8 @@
 This is a document indexing all Kodecsz community documents, separated by platform.
 
 We have community in these platforms:
-- [[file:communities/discord.org][Discord]]
+
+| Platform | Document    |
+|----------+-------------|
+| [[https://discord.com/][Discord]]  | [[file:communities/discord.org][discord.org]] |
+

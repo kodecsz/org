@@ -1,0 +1,25 @@
+:PROPERTIES:
+:CUSTOM_ID: KDCZ-200-001
+:END:
+#+title: Discord Server Announcements
+
+This is a procedure of how to make announcements inside the Discord server.
+
+* Classification
+Before making a new announcement, we must classify the importance of the content.
+
+This classification will be used to determine which role will be mentioned.
+
+| Importance | Mention Role | Example                                                       |
+|------------+--------------+---------------------------------------------------------------|
+| High       | @everyone    | Important update that affects everyone or big changes         |
+| Medium     | @here        | Update that doesn't affect everyone, but it's still important |
+| Low        | @news        | Not important updates, curiosities, and more                  |
+
+* TODO Writing an announcement
+instructions of how to write a proper announcement.
+
+May use Minto Pyramid[fn:1].
+
+* Footnotes
+[fn:1] https://untools.co/minto-pyramid/ 
