@@ -2,4 +2,26 @@
 
 This is a document with all Kodecsz procedures and specifications.
 
-For all documents see: [[file:DOCUMENTS.org][DOCUMENTS]].
+* Suffixes
+| Suffix       | Description                     |
+|--------------+---------------------------------|
+| KDCZ-100-XXX | Community-related Documents     |
+| KDCZ-200-XXX | Procedures-related Documents    |
+| KDCZ-300-XXX | Specification-related Documents |
+
+* Communities
+| Title               | Document     |
+|---------------------+--------------|
+| Kodecsz Communities | [[file:communities.org][KDCZ-100-000]] |
+| Discord Community   | [[file:communities/discord.org][KDCZ-100-001]] |
+
+* Procedures
+| Title                        | Document     |
+|------------------------------+--------------|
+| Kodecsz Procedures           | [[file:procedures.org][KDCZ-200-000]] |
+| Discord Server Announcements | [[file:procedures/discord_server_announcements.org][KDCZ-200-001]] |
+
+* Specifications
+| Title | Document |
+|-------+----------|
+|       |          |

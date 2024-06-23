@@ -2,3 +2,10 @@
 :CUSTOM_ID: KDCZ-200-000
 :END:
 #+title: Kodecsz Procedures
+
+This is a document indexing all Kodecsz procedures
+
+* Procedures
+| Procedure                    | Document     |
+|------------------------------+--------------|
+| Discord Server Announcements | [[file:~/org/docs/kodecsz/procedures/discord_server_announcements.org][KDCZ-200-001]] |

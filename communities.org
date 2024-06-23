@@ -7,7 +7,7 @@ This is a document indexing all Kodecsz community documents, separated by platfo
 
 We have community in these platforms:
 
-| Platform | Document    |
-|----------+-------------|
-| [[https://discord.com/][Discord]]  | [[file:communities/discord.org][discord.org]] |
+| Platform | Document     |
+|----------+--------------|
+| [[https://discord.com/][Discord]]  | [[file:communities/discord.org][KDCZ-100-001]] |
 

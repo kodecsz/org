@@ -9,9 +9,9 @@ This is the document about Kodecsz Discord community.
 Discord is an instant messaging and VoIP social platform which allows communication through voice calls, video calls, text messaging, and media and files. Communication can be private or take place in virtual communities called "servers"[fn:1].
 
 * Procedures
-| Procedure                    | Document |
-|------------------------------+----------|
-| Discord Server Announcements |          |
+| Procedure                    | Document     |
+|------------------------------+--------------|
+| Discord Server Announcements | [[file:~/org/docs/kodecsz/procedures/discord_server_announcements.org][KDCZ-200-001]] |
 
 
 * Footnotes
